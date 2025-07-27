@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-*3v9pa^i%@yv9q*wq@fk6p!znc9!jncj=lr(3jo-7_*abpb!l2
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['your-app-name.onrender.com', 'localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['https://my-urlshortener-sqlite.onrender.com', 'localhost', '127.0.0.1']
 
 
 # Application definition
